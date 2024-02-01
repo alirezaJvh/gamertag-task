@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gamerttagtask-dev-140451-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267086799:role/amplify-gamerttagtask-dev-140451-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267086799:role/amplify-gamerttagtask-dev-140451-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-gamerttagtask-dev-140451-deployment",
+      "UnauthRoleName": "amplify-gamerttagtask-dev-140451-unauthRole",
+      "StackName": "amplify-gamerttagtask-dev-140451",
+      "StackId": "arn:aws:cloudformation:eu-central-1:533267086799:stack/amplify-gamerttagtask-dev-140451/7e05f8c0-c102-11ee-ac74-06b417c9ef95",
+      "AmplifyAppId": "d3j051keg5np2j"
+    }
+  }
+}
