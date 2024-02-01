@@ -1,5 +1,3 @@
-"use client";
-
 const BASE_FOOTER_CLASSES =
   "w-full h-12 bg-white border-t border-gray-300 lg:fixed bottom-0";
 const YEAR = new Date().getFullYear();
