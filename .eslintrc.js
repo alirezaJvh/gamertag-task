@@ -24,7 +24,7 @@ module.exports = {
       },
     },
   },
-
+  ignorePatterns: ["amplify"],
   plugins: ["@typescript-eslint"],
   extends: [
     "eslint:recommended",
